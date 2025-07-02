@@ -1,4 +1,4 @@
-package loopsDemo;
+package com.tnsif.daytwo.loopsdemo;
 
 public class DoWhileLoop {
 	

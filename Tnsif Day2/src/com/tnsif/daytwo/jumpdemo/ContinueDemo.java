@@ -1,4 +1,4 @@
-package jumpDemo;
+package com.tnsif.daytwo.jumpdemo;
 
 public class ContinueDemo {
 	public static void main(String[] args) {
@@ -13,6 +13,5 @@ public class ContinueDemo {
 			System.out.println(k + " ");
 		}
 	}
-
 
 }

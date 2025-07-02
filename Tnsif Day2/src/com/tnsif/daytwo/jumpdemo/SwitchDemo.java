@@ -1,4 +1,4 @@
-package jumpDemo;
+package com.tnsif.daytwo.jumpdemo;
 
 public class SwitchDemo {
 	public static void main(String[] args) {
