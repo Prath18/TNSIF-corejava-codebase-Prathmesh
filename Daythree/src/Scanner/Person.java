@@ -1,6 +1,6 @@
 package Scanner;
 
-public class person {
+public class Person {
 
 	//data members
 		private String name;
@@ -55,9 +55,4 @@ public class person {
 					+ mobileNumber + ", tax=" + tax + "]";
 		}
 		
-		
-		
-		
-		
-		
-	}
+}
