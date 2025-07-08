@@ -4,6 +4,7 @@ package com.tnsif.dayeight.interfacedemo;
 //child class
 public class SavingAccount extends Customer implements Bank {
 
+	private static final float MINBAL = 0;
 	private int accNo;
 	private float balance;
 	

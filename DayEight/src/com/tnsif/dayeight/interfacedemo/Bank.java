@@ -1,13 +1,13 @@
 package com.tnsif.dayeight.interfacedemo;
 
-public class Bank {
+public interface Bank {
 	
 	final static float MINBAL=5000;
 	final static float Deposit_Limit=25000;
 	
-	public void deposit(float amount) {
+	public default void deposit(float amount) {
 	}
-	public void withdraw(float amount) {
+	public default void withdraw(float amount) {
 	}
 	
 	

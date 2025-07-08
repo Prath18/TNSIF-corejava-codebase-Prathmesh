@@ -1,7 +1,7 @@
-package FinalClassDemo;
+package com.tnsif.daysix.finaldemo;
 
 public class FinalVaribles {
-
+	
 //	final int a;  // final instance varible muts be initialized		
 	
 	final int x=100;
@@ -32,7 +32,5 @@ public class FinalVaribles {
 		//z=80;  once initialized can't be reassigned
 		System.out.println("value of Y : "+ y);
 	}
-	
-	
-	
+
 }
